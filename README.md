@@ -22,4 +22,5 @@ For this experiment, the focus was on utilizing scikit-learn classifiers, includ
 #### Experiment 2
 For this experiment, the focus was on ANN-based binary classification models for propensity and likely-party affiliations. The datasets used are the same as previous experiments with the exception of MinMaxScaler being applied to propensity models and strictly RandomUnderSampling to party affiliation models. The party affiliation models achieved an average precision of 0.96 and 0.97 for the South Kingstown and Statewide datasets respectively. The party affiliation models perform very well whereas the remaining propensity models performed roughly on-par with the models used in Experiment 1. 
 
+### Deployed Voter Propensity Model: https://huggingface.co/spaces/rodrigopimentel/predicting-voting-propensity 
 
