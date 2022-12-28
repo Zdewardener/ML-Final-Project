@@ -24,3 +24,5 @@ For this experiment, the focus was on ANN-based binary classification models for
 
 ### Deployed Voter Propensity Model: https://huggingface.co/spaces/rodrigopimentel/predicting-voting-propensity 
 
+### CSC/DSP 461 Best Project Designation
+![Forum post by Marco Alvarez: "Dear students, here is a list of outstanding projects. Congratulations! (1) RNN Convolutional Code Decoder, (2) Predicting Voting Propensity and Political Party Affiliation in Primary Elections, (3) Emoji Prediction Using Bidirectional LSTM. It was a difficult decision.  The criteria involved quality of the presentation, final report, and GitHub repository.](https://user-images.githubusercontent.com/4823699/209861106-50181ee5-61c4-4e11-ba5f-59d13134f104.png)
